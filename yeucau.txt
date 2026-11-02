@@ -1,0 +1,18 @@
+Model type: Transformer 
+Task: Classification 
+Dataset: AG News
+Objective: Topic detection 
+
+Exercises:
+ 	
+News Topic Classification
+ Goal: Classify text articles into categories (e.g., politics, sports).
+ Dataset: AG News
+ Model: BERT or DistilBERT
+ Task Type: Classification
+ Extension: Compare fine-tuning vs. frozen encoder.
+
+
+Dataset links: https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
+
+
